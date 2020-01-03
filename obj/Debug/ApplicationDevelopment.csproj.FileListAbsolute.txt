@@ -1,0 +1,17 @@
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.csprojAssemblyReference.cache
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\MainWindow.g.cs
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\App.g.cs
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment_MarkupCompile.cache
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment_MarkupCompile.lref
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\bin\Debug\ApplicationDevelopment.exe.config
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\bin\Debug\ApplicationDevelopment.exe
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\bin\Debug\ApplicationDevelopment.pdb
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\bin\Debug\DataHandler.dll
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\bin\Debug\DataHandler.pdb
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\MainWindow.baml
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.g.resources
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.Properties.Resources.resources
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.csproj.GenerateResource.cache
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.csproj.CopyComplete
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.exe
+C:\Users\Abhishek Lamichhane\source\repos\ApplicationDevelopment\obj\Debug\ApplicationDevelopment.pdb
